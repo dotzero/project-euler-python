@@ -79,3 +79,6 @@ def divisors(n):
 # Proper divisors
 def proper_divisors(n):
     return list(divisors(n))[:-1]
+
+
+
